@@ -4,4 +4,4 @@ end
 
 fido = Dog.new()
 lassie = Dog.new()
-snoppy = Dog.new()
+snoopy = Dog.new()
